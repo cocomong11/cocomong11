@@ -2,24 +2,24 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=1000\&color=6366F1\&center=true\&vCenter=true\&width=750\&lines=Interested+in+Agentic+AI+%26+LLM+Agents;Building+AI-powered+services+from+ideas;Exploring+Computer+Vision+%26+Recommendation;Turning+research+ideas+into+working+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=1000\&color=6366F1\&center=true\&vCenter=true\&width=780\&lines=Exploring+Agentic+AI+%26+Physical+AI;Building+LLM+Agents+for+real-world+systems;Connecting+AI+with+robots+and+physical+environments;Turning+research+ideas+into+working+systems)](https://git.io/typing-svg)
 
 <br>
 
 <img src="https://img.shields.io/badge/AI%20Engineering-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Research%20%26%20Development-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Physical%20AI-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic%20Systems-0F766E?style=for-the-badge"/>
 
 <br><br>
 
-### From AI models to real-world systems
+### From intelligent models to real-world action
 
-단순히 모델을 학습하는 데 그치지 않고,
-**데이터 · AI · 사용자 경험 · 시스템 구조**를 연결하여
-실제로 사용할 수 있는 지능형 서비스를 만드는 과정에 관심이 있습니다.
+단순히 모델이 답을 생성하는 것을 넘어,
+**AI가 실제 환경을 이해하고 판단하며 행동하는 시스템**에 관심이 있습니다.
 
 <br>
 
-`Agentic AI` · `LLM Agents` · `Computer Vision` · `Recommendation Systems`
+`Agentic AI` · `Physical AI` · `LLM Agents` · `Computer Vision` · `Recommendation Systems`
 
 </div>
 
@@ -27,13 +27,18 @@
 
 ## ✨ What I'm Exploring
 
-* 자연어 목표를 이해하고 스스로 계획·실행·복구하는 **Agentic AI**
-* 외부 도구와 데이터를 활용하는 **LLM Agent 및 RAG 시스템**
-* 이미지에서 의미 있는 정보를 탐지하는 **Computer Vision**
-* 사용자 특성과 행동을 반영하는 **Personalized Recommendation**
-* 연구 아이디어를 실제 서비스로 연결하는 **AI System Engineering**
+* **Agentic AI & LLM Agents**
+  목표를 이해하고 도구를 활용해 계획·실행·복구하는 지능형 에이전트
+
+* **Physical AI & Computer Vision**
+  로봇과 실제 환경을 인식하고 안전하게 판단·행동하는 AI 시스템
+
+* **Personalized AI Systems**
+  사용자 데이터와 선호를 반영해 실질적인 가치를 제공하는 지능형 서비스
+
 
 <br>
+
 
 
 ## 🛠️ Tech Stacks
