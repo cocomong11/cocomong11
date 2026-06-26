@@ -12,8 +12,6 @@
 
 <br><br>
 
-### From intelligent models to real-world action
-
 <br>
 
 `Agentic AI` · `Physical AI` · `LLM Agents` 
