@@ -1,25 +1,41 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=210&section=header&text=Chaehyun%20Park&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineering%20Student%20%7C%20Building%20Intelligent%20Systems&descAlignY=60&descSize=18"/>
+
 <div align="center">
 
-# Welcome to Chaehyun's GitHub! 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=1000\&color=6366F1\&center=true\&vCenter=true\&width=750\&lines=Interested+in+Agentic+AI+%26+LLM+Agents;Building+AI-powered+services+from+ideas;Exploring+Computer+Vision+%26+Recommendation;Turning+research+ideas+into+working+systems)](https://git.io/typing-svg)
 
-### AI Engineering Student interested in intelligent systems
+<br>
 
-🎓 **Sookmyung Women's University**
-💻 **Department of Artificial Intelligence Engineering**
-🤖 Interested in **LLM Agents · Agentic AI · Computer Vision · Recommendation Systems**
+<img src="https://img.shields.io/badge/Sookmyung%20Women's%20University-1E3A8A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Engineering-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Research%20%26%20Development-7C3AED?style=for-the-badge"/>
+
+<br><br>
+
+### From AI models to real-world systems
+
+단순히 모델을 학습하는 데 그치지 않고,
+**데이터 · AI · 사용자 경험 · 시스템 구조**를 연결하여
+실제로 사용할 수 있는 지능형 서비스를 만드는 과정에 관심이 있습니다.
+
+<br>
+
+`Agentic AI` · `LLM Agents` · `Computer Vision` · `Recommendation Systems`
 
 </div>
 
 <br>
 
-## 👩‍💻 About Me
+## ✨ What I'm Exploring
 
-* 사용자 요구사항을 분석하여 실제로 동작하는 서비스와 기능으로 구현하는 과정에 관심이 있습니다.
-* 인공지능 모델뿐만 아니라 데이터, 사용자 인터페이스, 시스템 구조를 연결하는 프로젝트를 경험하고 있습니다.
-* 새로운 기술을 직접 학습하고 프로젝트에 적용하면서 이해하는 것을 중요하게 생각합니다.
-* 현재 LLM Agent와 실제 환경에서 동작하는 Agentic AI 시스템에 관심을 가지고 공부하고 있습니다.
+* 자연어 목표를 이해하고 스스로 계획·실행·복구하는 **Agentic AI**
+* 외부 도구와 데이터를 활용하는 **LLM Agent 및 RAG 시스템**
+* 이미지에서 의미 있는 정보를 탐지하는 **Computer Vision**
+* 사용자 특성과 행동을 반영하는 **Personalized Recommendation**
+* 연구 아이디어를 실제 서비스로 연결하는 **AI System Engineering**
 
 <br>
+
 
 ## 🛠️ Tech Stacks
 
