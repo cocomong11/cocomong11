@@ -10,14 +10,6 @@
 <img src="https://img.shields.io/badge/Physical%20AI-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Agentic%20Systems-0F766E?style=for-the-badge"/>
 
-<br><br>
-
-<br>
-
-`Agentic AI` · `Physical AI` · `LLM Agents` 
-
-</div>
-
 <br>
 
 ## ✨ What I'm Exploring
