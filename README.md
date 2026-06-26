@@ -1,10 +1,6 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:2563EB,100:7C3AED&amp;height=220&amp;section=header&amp;text=Chaehyun%20Park&amp;fontSize=48&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AI%20Engineering%20Student%20%7C%20Agentic%20AI%20%26%20Physical%20AI&amp;descAlignY=60&amp;descSize=18" alt="Chaehyun Park Header"/>
+
 <div align="center">
-
-<h1>Chaehyun Park</h1>
-
-<p>
-<b>AI Engineering Student building intelligent systems</b>
-</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;pause=1000&amp;color=6366F1&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Exploring+Agentic+AI+and+Physical+AI;Building+LLM+Agents+for+real-world+systems;Connecting+AI+with+robots+and+physical+environments;Turning+research+ideas+into+working+systems" alt="Typing SVG"/>
 
@@ -17,7 +13,8 @@
 </p>
 
 <p>
-Sookmyung Women's University · Department of Artificial Intelligence Engineering
+<b>Sookmyung Women's University</b><br/>
+Department of Artificial Intelligence Engineering
 </p>
 
 </div>
@@ -32,7 +29,7 @@ Sookmyung Women's University · Department of Artificial Intelligence Engineerin
 
 <strong>Agentic AI & LLM Agents</strong>
 
-<br/>
+<br/><br/>
 
 자연어 목표를 이해하고 도구를 활용해 계획·실행·관찰·복구하는 지능형 에이전트를 탐구합니다.
 
@@ -41,9 +38,9 @@ Sookmyung Women's University · Department of Artificial Intelligence Engineerin
 
 <strong>Physical AI & Computer Vision</strong>
 
-<br/>
+<br/><br/>
 
-로봇과 실제 환경을 인식하고, 안전하게 판단하고 행동하는 AI 시스템을 탐구합니다.
+로봇과 실제 환경을 인식하고 안전하게 판단하며 행동하는 AI 시스템을 탐구합니다.
 
 </td>
 </tr>
@@ -109,7 +106,6 @@ Sookmyung Women's University · Department of Artificial Intelligence Engineerin
 
 <br/>
 
-
 ## Featured Projects
 
 <table>
@@ -163,7 +159,9 @@ Sookmyung Women's University · Department of Artificial Intelligence Engineerin
 
 <strong>Role</strong>
 
-<p><code>Frontend Developer</code></p>
+<p>
+<code>Frontend Developer</code>
+</p>
 
 <strong>Tech</strong>
 
@@ -332,14 +330,22 @@ React Native와 Expo를 활용하여 제작한 모바일 애플리케이션 클�
 
 ## Contact
 
-* **GitHub:** [cocomong11](https://github.com/cocomong11)
+<p>
+<a href="mailto:carpediem1011@sookmyung.ac.kr">
+<img src="https://img.shields.io/badge/Email-carpediem1011%40sookmyung.ac.kr-7C3AED?style=flat-square&amp;logo=gmail&amp;logoColor=white"/>
+</a>
+
+<a href="https://github.com/cocomong11">
+<img src="https://img.shields.io/badge/GitHub-cocomong11-181717?style=flat-square&amp;logo=github&amp;logoColor=white"/>
+</a>
+</p>
 
 <br/>
 
 <div align="center">
 
-**Thanks for visiting my GitHub.**
+<strong>Thanks for visiting my GitHub.</strong>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=110&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:2563EB,100:7C3AED&amp;height=110&amp;section=footer" alt="Footer"/>
