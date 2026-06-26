@@ -6,7 +6,6 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Sookmyung%20Women's%20University-1E3A8A?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AI%20Engineering-4F46E5?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Research%20%26%20Development-7C3AED?style=for-the-badge"/>
 
