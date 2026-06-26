@@ -14,12 +14,9 @@
 
 ### From intelligent models to real-world action
 
-단순히 모델이 답을 생성하는 것을 넘어,
-**AI가 실제 환경을 이해하고 판단하며 행동하는 시스템**에 관심이 있습니다.
-
 <br>
 
-`Agentic AI` · `Physical AI` · `LLM Agents` · `Computer Vision` · `Recommendation Systems`
+`Agentic AI` · `Physical AI` · `LLM Agents` 
 
 </div>
 
