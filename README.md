@@ -6,12 +6,6 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/AI%20Engineering-4F46E5?style=for-the-badge" alt="AI Engineering"/>
-<img src="https://img.shields.io/badge/Physical%20AI-7C3AED?style=for-the-badge" alt="Physical AI"/>
-<img src="https://img.shields.io/badge/Agentic%20Systems-0F766E?style=for-the-badge" alt="Agentic Systems"/>
-
-<br/><br/>
-
 <strong>Sookmyung Women's University</strong><br/>
 Department of Artificial Intelligence Engineering
 
@@ -23,7 +17,9 @@ Department of Artificial Intelligence Engineering
 
 <div align="center">
 
-<code>Agentic AI</code> · <code>Physical AI</code> · <code>LLM Agents</code> · <code>Computer Vision</code>
+<img src="https://img.shields.io/badge/AI%20Engineering-4F46E5?style=for-the-badge" alt="AI Engineering"/>
+<img src="https://img.shields.io/badge/Physical%20AI-7C3AED?style=for-the-badge" alt="Physical AI"/>
+<img src="https://img.shields.io/badge/Agentic%20Systems-0F766E?style=for-the-badge" alt="Agentic Systems"/>
 
 </div>
 
