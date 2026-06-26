@@ -1,31 +1,53 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=210&section=header&text=Chaehyun%20Park&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineering%20Student%20%7C%20Agentic%20AI%20%26%20Physical%20AI&descAlignY=60&descSize=18"/>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=1000\&color=6366F1\&center=true\&vCenter=true\&width=800\&lines=Exploring+Agentic+AI+%26+Physical+AI;Building+LLM+Agents+for+real-world+systems;Connecting+AI+with+robots+and+physical+environments;Turning+research+ideas+into+working+systems)](https://git.io/typing-svg)
+<h1>Chaehyun Park</h1>
 
-<br/>
+<p>
+<b>AI Engineering Student building intelligent systems</b>
+</p>
 
-**AI Engineering Student at Sookmyung Women's University**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;pause=1000&amp;color=6366F1&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Exploring+Agentic+AI+and+Physical+AI;Building+LLM+Agents+for+real-world+systems;Connecting+AI+with+robots+and+physical+environments;Turning+research+ideas+into+working+systems" alt="Typing SVG"/>
 
-<br/>
+<br/><br/>
 
+<p>
 <img src="https://img.shields.io/badge/AI%20Engineering-4F46E5?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Physical%20AI-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Agentic%20Systems-0F766E?style=for-the-badge"/>
+</p>
+
+<p>
+Sookmyung Women's University · Department of Artificial Intelligence Engineering
+</p>
 
 </div>
 
+<br/>
+
 ## Current Focus
 
-* **Agentic AI & LLM Agents**
-  목표를 이해하고 도구를 활용해 계획·실행·관찰·복구하는 지능형 에이전트
+<table>
+<tr>
+<td width="50%" valign="top">
 
-* **Physical AI & Computer Vision**
-  로봇과 실제 환경을 인식하고 안전하게 판단·행동하는 AI 시스템
+<strong>Agentic AI & LLM Agents</strong>
 
-* **Personalized AI Systems**
-  사용자 데이터와 선호를 반영해 실질적인 가치를 제공하는 지능형 서비스
+<br/>
+
+자연어 목표를 이해하고 도구를 활용해 계획·실행·관찰·복구하는 지능형 에이전트를 탐구합니다.
+
+</td>
+<td width="50%" valign="top">
+
+<strong>Physical AI & Computer Vision</strong>
+
+<br/>
+
+로봇과 실제 환경을 인식하고, 안전하게 판단하고 행동하는 AI 시스템을 탐구합니다.
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -33,49 +55,60 @@
 
 ### Languages
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&amp;logo=c&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&amp;logo=openjdk&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white"/>
+</p>
 
 ### AI & Data
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ultralytics%20YOLO-111F68?style=flat-square&logo=ultralytics&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&amp;logo=scikitlearn&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&amp;logo=opencv&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Ultralytics%20YOLO-111F68?style=flat-square&amp;logo=ultralytics&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&amp;logo=tableau&amp;logoColor=white"/>
+</p>
 
 ### Web & Application
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black"/>
+<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black"/>
+<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&amp;logo=expo&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white"/>
+</p>
 
 ### Database & Collaboration
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&amp;logo=slack&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&amp;logo=figma&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&amp;logo=visualstudiocode&amp;logoColor=white"/>
+</p>
 
 <br/>
 
 ## Currently Learning
 
-<img src="https://img.shields.io/badge/LLM%20Agents-412991?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<p>
+<img src="https://img.shields.io/badge/LLM%20Agents-412991?style=flat-square&amp;logo=openai&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-1C3C3C?style=flat-square&amp;logo=langchain&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&amp;logo=ros&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white"/>
+</p>
 
 <br/>
+
 
 ## Featured Projects
 
