@@ -28,15 +28,6 @@
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux&logoColor=white)
 
-# Achievements
-
-| 주요 성과 | 프로젝트 · 소속 | 시기 |
-| --- | --- | --- |
-| 보육 문서 작성 서비스 1인 기획·개발·배포 | 아이하루 · 개인 프로젝트 | 2026 여름 |
-| 사용자 6유형별 대피 위험과 산정 근거를 비교하는 결과 화면 구현 | [SafePath AI](https://github.com/26-OSSP/2026_OSS_Project/pull/40) · 오픈소스프로그래밍 | 2026.06 |
-| 제6회 IPS 예선 출품 · 모임·참여자 관리 API 개발 | fAIrmeet · 오손도손 | 2026.05 |
-| GEPA 논문 분석 및 프롬프트 자동 최적화 실험 보고서 공개 | [AI Archive](https://github.com/cocomong11/Chaehyun-AI-Archive/blob/main/Self-evolving%20AI%20%20%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%EC%9E%90%EB%8F%99%EC%B5%9C%EC%A0%81%ED%99%94%28GEPA%29%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B5%AC%ED%98%84%20%EB%B0%8F%20%EB%B6%84%EC%84%9D.pdf) | 2026.03 |
-
 # Experiences
 
 | 활동 | 내용 | 기간 |
