@@ -1,217 +1,45 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:2563EB,100:7C3AED&amp;height=220&amp;section=header&amp;text=Chaehyun%20Park&amp;fontSize=48&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AI%20Engineering%20Student%20%7C%20Agentic%20AI%20and%20Physical%20AI&amp;descAlignY=60&amp;descSize=18" alt="Chaehyun Park Header"/>
 
-<div align="center">
+## 👋 About Me
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;pause=1000&amp;color=6366F1&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Exploring+Agentic+AI+and+Physical+AI;Building+AI+for+real-world+systems;Connecting+AI+with+robots+and+environments;Turning+ideas+into+working+systems" alt="Typing SVG"/>
+숙명여자대학교 인공지능공학부 **박채현**입니다. 카메라로 주변을 인식하고, 그 결과에 따라 움직이는 시스템에 관심이 있습니다.
 
-<br/><br/>
+- 라즈베리파이로 캔·플라스틱·종이를 구분해 분류판을 움직이는 스마트 분리수거기를 만들고 있습니다.
+- SafePath AI에서는 같은 계단도 휠체어 사용자와 일반 보행자에게 다른 위험이 된다는 점을 결과 화면에 담았습니다.
 
-<strong>Sookmyung Women's University</strong><br/>
-Department of Artificial Intelligence Engineering
+## 🛠️ Skills
 
-</div>
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-455A64?style=flat-square&logo=c&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<br/>
+**AI & Computer Vision**  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat-square&logo=ultralytics&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=black)
 
-## Current Focus
+**Web & Database**  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-<div align="center">
+**Embedded**  
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
 
-<img src="https://img.shields.io/badge/AI%20Engineering-4F46E5?style=for-the-badge" alt="AI Engineering"/>
-<img src="https://img.shields.io/badge/Physical%20AI-7C3AED?style=for-the-badge" alt="Physical AI"/>
-<img src="https://img.shields.io/badge/Agentic%20Systems-0F766E?style=for-the-badge" alt="Agentic Systems"/>
+## 💻 Projects
 
-</div>
+| 프로젝트 | 시기 | 맡은 일 | 설명 |
+| --- | --- | --- | --- |
+| 스마트 분리수거기 | 2026 · 진행 중 | 센서 연동 · 서보 제어 | 카메라로 재활용품을 구분하고 초음파 센서로 통이 얼마나 찼는지 측정 |
+| [오두막 책방](https://github.com/ezhye0n/31th_2_CtrlZ_odumak_back) | 2026 · 진행 중 | PM · 독서방 기능 기획 | 같은 책을 읽는 사람들이 독서 진도와 메모를 나누는 서비스 |
+| 아이하루 | 2026 여름 | 1인 기획 · 개발 | 교사가 쓴 관찰 기록을 바탕으로 AI가 초안을 만들고 교사가 검토·편집하는 서비스 |
+| [이음](https://github.com/sm-solux/31th_hello_lux_ieum_front) | 2026 1학기 | 퀴즈·리포트 화면 개발 | 치매 환자와 보호자, 의료진이 인지 활동 기록을 함께 확인하는 서비스 |
+| [SafePath AI](https://github.com/26-OSSP/2026_OSS_Project) | 2026 1학기 | 데이터 라벨링 · 결과 화면 개발 | 실내 사진 속 장애물을 탐지하고 사용자 유형별 대피 위험을 비교 |
+| [fAIrmeet](https://github.com/osondoson-team/fAIrmeet) | 2026 1학기 | 모임·참여자 관리 API 개발 | 각자 출발지와 이동 수단을 입력하면 만나기 좋은 장소를 추천 |
+| [교내 비교과 프로그램 추천](https://github.com/cocomong11/2025_SM_Data) | 2025 | 추천 점수 설계 · 시각화 | 학생별 역량과 선호도를 바탕으로 비교과 프로그램을 추천 |
+| [SMMarble](https://github.com/cocomong11/SMMarble) | 2025 | 게임 진행 · 파일 입력 구현 | 수업을 들으며 30학점을 모아 집에 돌아오면 졸업하는 C 콘솔 보드게임 |
 
-<br/>
+## 🌱 Experiences
 
-## Tech Stack
+| 활동 | 시기 | 내용 |
+| --- | --- | --- |
+| SOLUX 31기 | 2026 1·2학기 | 1학기에는 이음 프론트엔드를 개발했고, 2학기에는 오두막 책방 9인 팀의 기획과 일정을 조율 |
+| 제6회 IPS | 2026 1학기 | 5인 팀 오손도손에서 fAIrmeet 백엔드를 맡아 예선 출품 |
+| [인공지능공학부 겨울방학 AI 스터디](https://github.com/cocomong11/ai-study-2026-smwu) | 2026년 초 | RAG 논문을 함께 읽고, 검색한 문서를 답변 생성에 활용하는 모델 구조를 발표 |
 
-### Languages
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&amp;logo=c&amp;logoColor=white" alt="C"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript"/>
-</p>
-
-### AI and Data
-
-<p>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&amp;logo=scikitlearn&amp;logoColor=white" alt="scikit-learn"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&amp;logo=opencv&amp;logoColor=white" alt="OpenCV"/>
-<img src="https://img.shields.io/badge/Ultralytics%20YOLO-111F68?style=flat-square&amp;logo=ultralytics&amp;logoColor=white" alt="Ultralytics YOLO"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&amp;logo=tableau&amp;logoColor=white" alt="Tableau"/>
-</p>
-
-### Web and Application
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black" alt="React"/>
-<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black" alt="React Native"/>
-<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&amp;logo=expo&amp;logoColor=white" alt="Expo"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI"/>
-</p>
-
-### Database and Collaboration
-
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&amp;logo=slack&amp;logoColor=white" alt="Slack"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&amp;logo=figma&amp;logoColor=white" alt="Figma"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&amp;logo=visualstudiocode&amp;logoColor=white" alt="Visual Studio Code"/>
-</p>
-
-<br/>
-
-## Currently Learning
-
-<p>
-<img src="https://img.shields.io/badge/LLM%20Agents-412991?style=flat-square&amp;logo=openai&amp;logoColor=white" alt="LLM Agents"/>
-<img src="https://img.shields.io/badge/RAG-1C3C3C?style=flat-square&amp;logo=langchain&amp;logoColor=white" alt="RAG"/>
-<img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&amp;logo=ros&amp;logoColor=white" alt="ROS2"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black" alt="Linux"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white" alt="C++"/>
-</p>
-
-<br/>
-
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3><a href="https://github.com/cocomong11/object_detection_ivpl">SafePath AI</a></h3>
-
-이미지 기반 대피 객체 탐지 및 사용자 유형별 위험 분석 서비스
-
-<strong>Contribution</strong><br/>
-데이터 수집·라벨링, 위험도 구조 설계, 프론트엔드 구현
-
-<br/><br/>
-
-<code>Python</code> <code>YOLO</code> <code>OpenCV</code> <code>React</code> <code>FastAPI</code>
-
-</td>
-<td width="50%" valign="top">
-
-<h3><a href="https://github.com/cocomong11/hello-lux-ieum">이음</a></h3>
-
-환자·보호자·의료진을 연결하는 치매 디지털 케어 서비스
-
-<strong>Role</strong><br/>
-Frontend Developer
-
-<br/><br/>
-
-<code>React</code> <code>TypeScript</code> <code>HTML</code> <code>CSS</code>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<h3><a href="https://github.com/cocomong11/2025_SM_Data">2025 SM-Data Recommendation</a></h3>
-
-전공·선호도·활동 이력을 활용한 교내 프로그램 추천 시스템
-
-<strong>Contribution</strong><br/>
-추천 점수 설계, Top-N 추천, 결과 시각화
-
-<br/><br/>
-
-<code>Python</code> <code>Cosine Similarity</code> <code>Tableau</code>
-
-</td>
-<td width="50%" valign="top">
-
-<h3><a href="https://github.com/cocomong11/Recipick">Recipick</a></h3>
-
-레시피 탐색과 사용자 상호작용을 구현한 웹 프로젝트
-
-<br/><br/>
-
-<code>HTML</code> <code>CSS</code> <code>JavaScript</code>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<h3><a href="https://github.com/cocomong11/talky-walky-client">Talky Walky</a></h3>
-
-Expo 기반 모바일 애플리케이션 클라이언트 프로젝트
-
-<br/><br/>
-
-<code>React Native</code> <code>Expo</code> <code>TypeScript</code>
-
-</td>
-<td width="50%" valign="top">
-
-<h3><a href="https://github.com/cocomong11/SMMarble">SMMarble</a></h3>
-
-C 언어로 구현한 숙명여자대학교 테마의 미니 보드게임
-
-<br/><br/>
-
-<code>C</code> <code>Data Structures</code> <code>File I/O</code>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## Additional Projects
-
-| Project                                                                      | Summary              |
-| ---------------------------------------------------------------------------- | -------------------- |
-| **[StudyTown](https://github.com/cocomong11/StudyTown)**                     | 학습 서비스 구현 프로젝트       |
-| **[Term Project](https://github.com/cocomong11/termproject)**                | 전공 수업 종합 프로젝트        |
-| **[OSS SMWU](https://github.com/cocomong11/OSS_SMWU)**                       | 오픈소스 소프트웨어 협업 프로젝트   |
-| **[Web Programming](https://github.com/cocomong11/Webprogramming)**          | 웹 프로그래밍 실습           |
-| **[Chaehyun AI Archive](https://github.com/cocomong11/Chaehyun-AI-Archive)** | AI 전공 학습 및 프로젝트 아카이브 |
-| **[AI Study 2026](https://github.com/cocomong11/ai-study-2026-smwu)**        | AI 이론 및 발표 자료        |
-
-<br/>
-
-## Other Experience
-
-| Project                                                 | Tech                    |
-| ------------------------------------------------------- | ----------------------- |
-| **Java Health Survey System** — 설문 기반 건강 상태 분석 및 피드백    | `Java` `OOP` `File I/O` |
-| **Image Restoration and Analysis** — 사진 복원, 얼굴 분석 및 OCR | `Python` `OpenCV` `OCR` |
-
-<br/>
-
-## Contact
-
-<p>
-<a href="mailto:carpediem1011@sookmyung.ac.kr">
-<img src="https://img.shields.io/badge/Email-carpediem1011%40sookmyung.ac.kr-7C3AED?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/cocomong11">
-<img src="https://img.shields.io/badge/GitHub-cocomong11-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
-</a>
-</p>
-
-<br/>
-
-<div align="center">
-
-<strong>Thanks for visiting my GitHub.</strong>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:2563EB,100:7C3AED&amp;height=110&amp;section=footer" alt="Footer"/>
+[carpediem1011@sookmyung.ac.kr](mailto:carpediem1011@sookmyung.ac.kr)
