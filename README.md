@@ -1,11 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:2563EB,100:7C3AED&amp;height=220&amp;section=header&amp;text=Chaehyun%20Park&amp;fontSize=48&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AI%20Engineering%20Student%20%7C%20Agentic%20AI%20and%20Physical%20AI&amp;descAlignY=60&amp;descSize=18" alt="Chaehyun Park Header"/>
 
-# About Me
-
-- 숙명여자대학교 인공지능공학부 박채현입니다. 컴퓨터 비전과 센서 제어를 연결하는 로봇 소프트웨어에 관심이 있습니다.
-- AI가 내놓은 결과를 사람이 확인할 수 있도록 설계합니다. 아이하루에서는 교사가 관찰 기록을 바탕으로 초안을 고치고, SafePath AI에서는 화면에서 대피 위험의 근거를 확인할 수 있게 했습니다.
-- 혼자 서비스를 기획하고 배포한 경험과, SOLUX에서 9인 팀의 PM으로 독서 서비스를 기획한 경험이 있습니다.
-
 # Links
 
 [![GitHub](https://img.shields.io/badge/GitHub-AI%20Study-4B5563?style=for-the-badge&logo=github&logoColor=white&labelColor=24292F)](https://github.com/cocomong11/ai-study-2026-smwu) [![Email](https://img.shields.io/badge/Email-Contact-4B5563?style=for-the-badge&logo=gmail&logoColor=white&labelColor=4F46E5)](mailto:carpediem1011@sookmyung.ac.kr)
